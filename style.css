@@ -9,7 +9,7 @@ h1 {
         color: #00FF00;
 }
 h2{
-        color: #900C3F
+        color: #FF5733
 }
 p {
         color: rgb(0,0,255)
@@ -19,6 +19,8 @@ p {
 <body>
 
 <h1>This header will be green.</h1>
+
+<h2>This header will be orange.</h2>
 
 <p>This paragraph will be blue.</p>
 
