@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+#wrap {
+	width: 900px;
+	margin: 0 auto;
+}
 <head>
 <style>
 body {
